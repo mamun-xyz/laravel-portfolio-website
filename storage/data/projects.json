@@ -1,0 +1,71 @@
+
+{"project":[
+    {
+        "Id": 1,
+        "Title": "Demo Title for Web Design",
+        "Category": "Web Design",
+        "Image": "frontend/img/work-1.jpg",
+        "Client":"Demo Client",
+        "Date":"xx-xx-xxxx",
+        "URL":"demo-url-1.com",
+        "Details":"Designed and developed visually appealing and user-friendly websites for a variety of clients, including small businesses, nonprofits, and e-commerce companies. Used HTML, CSS, JavaScript, and responsive design principles to create websites that are both functional and aesthetically pleasing. Collaborated with clients to understand their needs and requirements, and then translated those needs into creative and effective designs. Managed multiple projects simultaneously and met deadlines consistently."
+    },
+    {
+        "Id": 2,
+        "Title": "Demo Title for Web Development",
+        "Category": "Web Development",
+        "Image": "frontend/img/work-2.jpg",
+        "Client":"Demo Client 2",
+        "Date":"xx-xx-xxxx",
+        "URL":"demo-url-2.com",
+        "Details":"Web Development, Lorem, Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of(The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,  comes from a line in section 1.10.32."
+    },
+    {
+        "Id": 3,
+        "Title": "Demo Title for Laravel",
+        "Category": "Laravel",
+        "Image": "frontend/img/work-3.jpg",
+        "Client":"Demo Client 3",
+        "Date":"xx-xx-xxxx",
+        "URL":"demo-url-3.com",
+        "Details":"Laravel, Lorem, Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of(The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,  comes from a line in section 1.10.32."
+    },
+    {
+        "Id": 4,
+        "Title": "Demo Title for React",
+        "Category": "React",
+        "Image": "frontend/img/work-4.jpg",
+        "Client":"Demo Client 4",
+        "Date":"xx-xx-xxxx",
+        "URL":"demo-url-4.com",
+        "Details":" React, Lorem, Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of(The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,  comes from a line in section 1.10.32."
+    },
+    {
+        "Id": 5,
+        "Title": "Demo Title for SEO",
+        "Category": "SEO",
+        "Image": "frontend/img/work-5.jpg",
+        "Client":"Demo Client-5",
+        "Date":"xx-xx-xxxx",
+        "URL":"demo-url-5.com",
+        "Details":"SEO, Lorem, Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of(The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,  comes from a line in section 1.10.32."
+    },
+    {
+        "Id": 6,
+        "Title": "Demo Title for Graphics",
+        "Category": "Graphics",
+        "Image": "frontend/img/work-6.jpg",
+        "Client":"Demo Client 6",
+        "Date":"xx-xx-xxxx",
+        "URL":"demo-url-6.com",
+        "Details":"Graphics, Lorem, Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of(The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,  comes from a line in section 1.10.32."
+    }
+],
+
+    "Image":[{
+        "BgImage":"frontend/img/overlay-bg.jpg"
+        }] 
+}
+
+
+    

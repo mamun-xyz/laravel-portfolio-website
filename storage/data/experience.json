@@ -1,0 +1,23 @@
+[
+    {
+        "Serial": 1,
+        "Duration": "2021 - Present",
+        "Designation": "Web Developer",
+        "CompanyName": "First It BD",
+        "Description": "First! Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga."
+    },
+    {
+        "Serial": 2,
+        "Duration": "2019 - 2021",
+        "Designation": "Web Designer",
+        "CompanyName": "Second It BD",
+        "Description": "Second! Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga."
+    },
+    {
+        "Serial": 3,
+        "Duration": "2017-2018",
+        "Designation": "SEO Specialist",
+        "CompanyName": "Third It BD",
+        "Description": "Third! Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga."
+    }
+]
